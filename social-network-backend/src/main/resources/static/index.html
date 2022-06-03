@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Social-Network</title>
+    <script src="js/sockjs-0.3.4.js"/>
+    <script src="js/stomp.js"/>
+    <script src="js/index.js"/>
+</head>
+<body>
+
+<div>
+    <div>
+        <input type="text" id="from" placeholder="enter a email">
+    </div>
+    <br/>
+    <div>
+        <button id="connected" onclick="connect()">Connect</button>
+        <button id="disconnect" disabled="disabled" onclick="disconnect()">Disconnect</button>
+    </div>
+    <br/>
+    <div id="conversationDiv">
+        <input type="text" id="message" placeholder="Write a message..."/>
+        <button id="sendMessage" onclick="sendMessage()">Send</button>
+        <p id="messages"></p>
+    </div>
+</div>
+</body>
+</html>

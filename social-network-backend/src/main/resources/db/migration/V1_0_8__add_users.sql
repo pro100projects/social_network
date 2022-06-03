@@ -1,0 +1,15 @@
+INSERT INTO users VALUES
+(6, '6avatar.jpg', 'Миша', 'Сушинський', 'misha', 'misha@gmail.com', '380669038088', 'MALE', '$2a$10$fFACJxlgjmEy00k7lFXO9.Yqc/KO6WxYONSKlKPQA2GTXCcKDa5fq', true),
+(7, '7avatar.jpg', 'Віталік', 'Ясенівський', 'vitala', 'vitala@gmail.com', '380953850778', 'MALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true),
+(8, '8avatar.jpg', 'Денис', 'Стратій', 'den_str22', 'den_str22@gmail.com', '380964820916', 'MALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true),
+(9, '9avatar.jpg', 'Maks', 'Golik', 'maks', 'maks@gmail.com', '380674444462', 'MALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true),
+(10, '10avatar.jpg', 'Петро', 'Клим', 'petro_605', 'petro_605@gmail.com', '380680239436', 'MALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true),
+(11, '11avatar.jpg', 'Аня', 'Мельник', 'anna', 'anna@gmail.com', '380962102103', 'FEMALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true),
+(12, '12avatar.jpg', 'Сергій', 'Кабісов', 'waivers', 'waivers@gmail.com', '380993637445', 'MALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true),
+(13, '13avatar.jpg', 'Міша', 'Полянський', 'misha_polianskij', 'misha_polianskij@gmail.com', '380968617275', 'MALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true),
+(14, '14avatar.jpg', 'Ігор', 'Рахмістрюк', 'Zevs762', 'zevs762@gmail.com', '380993844485', 'MALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true),
+(15, null, 'Макс', 'Нищук', 'maxim098', 'maxim098@gmail.com', '380550239436', 'MALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true),
+(16, null, 'Коля', 'Бужняк', 'kolya', 'kolya@gmail.com', '380770239436', 'MALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true),
+(17, null, 'Артур', 'Казюк', 'kazart228', 'kazart228@gmail.com', '380663143291', 'MALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true),
+(18, '18avatar.jpg', 'Максим', 'Даниленко', 'seereny', 'seereny@gmail.com', '380500390348', 'MALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true),
+(19, null, '/Vasia', 'Gakman\', 'ExTeZil', 'ExTeZil@gmail.com', '380440239436', 'MALE', '$2a$10$uE5QV3/NDPpMhhwIh9io3..i3B/vx0.r0eGpnCQLFV9DdUYa.Kjhq', true);
